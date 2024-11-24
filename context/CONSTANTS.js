@@ -1,0 +1,1 @@
+const BASE_API_URL = BASE_API_URL + "https://testapaai.alshamalaljanoubiinstitute.com/public/";
